@@ -1,3 +1,5 @@
+# seq2seq model exercise modified from https://github.com/llSourcell/seq2seq_model_live/blob/master/2-seq2seq-advanced.ipynb
+
 import tensorflow as tf
 import numpy as np
 from tensorflow.python.ops.rnn_cell_impl import LSTMCell, LSTMStateTuple
